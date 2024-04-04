@@ -19,7 +19,7 @@ Assim que a extração estiver completa, as evidências estarão prontas para se
 
 ## Decifrando as evidências: Hashing
 
-A primeira impressão ao examinar os arquivos é que estamos diante de uma curiosa situação: imagens com nomes diferentes, mas aparentemente idênticas em conteúdo. Todas elas exibem o alto oficial do Império, Darth Vader, com seus aliados de tirania.
+A primeira impressão ao examinar os arquivos é que estamos diante de uma curiosa situação: imagens com nomes diferentes, mas aparentemente idênticas em conteúdo. Todas elas exibem o alto oficial do Império, Darth Vader, com seus correligionários do lado sombrio.
 
 ![image](https://github.com/cristiana-e/Hashing_Lab/assets/19941757/1c4c0f10-c534-43b2-97ef-80411ad4bc31)
 
